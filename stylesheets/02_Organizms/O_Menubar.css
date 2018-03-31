@@ -1,0 +1,28 @@
+.O_Menubar {
+  display: flex;
+  justify-content: space-between;
+
+  height: 80px;
+  padding-left: 40px;
+  border-bottom: 1px solid var(--gray);
+
+}
+
+
+.O_Menubar .left,
+.O_Menubar .right {
+  display: flex;
+}
+
+/* .O_Menubar .left {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  height: 80px;
+  padding: 0 20px;
+  z-index: 1;
+} */

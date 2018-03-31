@@ -1,0 +1,12 @@
+.O_Homebar {
+  width: 100%;
+  flex: 0 0 80px;
+  border-bottom: 1px solid var(--gray);
+
+}
+
+/* .O_Homebar .logo #logo {
+  width: 131px;
+  height: 50px;
+  background-image: url(../stylesheets../images/logo2.svg);
+  background-size: cover; */
